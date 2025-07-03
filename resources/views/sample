@@ -1,0 +1,132 @@
+ $this->knowladge = [];
+
+       $this->knowladge[] = [
+             'id'      => 1,
+            'image'   => 'book1.jpg',
+            'pdf'     => 'beijin.pdf',
+            'title'   => 'BEIJING+20 PAKISTAN STAKEHOLDER REPORT 1995 - 2014',
+            'description' => 'The Pakistan Stakeholder Report spanning two decades since the Beijing Fourth World Conference for Women (1995) was compiled through an exhaustive consultative process with a broad range of stakeholders within and outside government. Four provincial consultations were held in Quetta, Karachi, Lahore, and Peshawar (including FATA) in February and early March, ending with a national consultation in Islamabad on March 27 th 2014.',
+            'date'   => '1995 - 2014',
+            'url'    => 'https://www.ncsw.gov.pk/publicationslist#ResReport',
+            'author' => '',
+            'detail_description' => "The Pakistan Stakeholder Report spanning two decades since the Beijing Fourth
+                World Conference for Women (1995) was compiled through an exhaustive
+                consultative process with a broad range of stakeholders within and outside
+                government. Four provincial consultations were held in Quetta, Karachi, Lahore,
+                and Peshawar (including FATA) in February and early March, ending with a
+                national consultation in Islamabad on March 27th 2014. 1
+                 A total of 450 individuals
+                representing government ministries /departments, civil society organizations and
+                individuals, political representatives and media participated in these consultations.
+                The consultation in Peshawar (Khyber Pakhtoonkhwa) was organized and funded
+                by the Provincial Commission on the Status of Women. NCSW had selected seven
+                conveners for the 12 critical areas of concerns to organize thematic working
+                groups (TWGs) who wrote the reports for their respective area of concern. At
+                the same time the NCSW wrote to all provincial and a national departments for
+                their inputs, and also briefed the women development Ministers/ Secretaries at
+                the Interprovincial Women Ministers Group meeting",
+        ];
+
+        $this->knowladge[] = [
+         'id'    =>  2,  
+            'image' => 'book5.jpg',
+            'pdf'   => 'annual_report1.pdf',
+            'title' => 'ANNUAL REPORT 2015 - 2016',
+            'description' => 'The appointment of the first Chairperson under the Act of 2015 was in January 2016 after a
+            rigorous nomination and selection process whereby an especially constituted multi-party
+            Parliamentary Committee recommended by consensus the appointment of the Chairperson.
+            The 13 members of the Commission two each from provinces and one each from GilgitBaltistan, Islamabad Capital Territory, Azad Jammu Kashmir, FATA and Minorities and five exofficio members from key federal ministries of Finance, Establishment, Interior, Foreign
+            Affairs and Law Justice and Human Rights, were nominated by the Prime Minister in March
+            2013.The Commission became operational with its first meeting and election of the Executive
+            Committee in April.',
+            'date'  => '2015 - 2016',
+            'url'    => 'https://www.ncsw.gov.pk/publicationslist#AnnReport',
+            'author' => 'Khawar Mumtaz',
+            'detail_description' => "The appointment of the first Chairperson under the Act of 2015 was in January 2016 after a
+            rigorous nomination and selection process whereby an especially constituted multi-party
+            Parliamentary Committee recommended by consensus the appointment of the Chairperson.
+            The 13 members of the Commission two each from provinces and one each from GilgitBaltistan, Islamabad Capital Territory, Azad Jammu Kashmir, FATA and Minorities and five exofficio members from key federal ministries of Finance, Establishment, Interior, Foreign
+            Affairs and Law Justice and Human Rights, were nominated by the Prime Minister in March
+            2013.The Commission became operational with its first meeting and election of the Executive
+            Committee in April.<br><br>The Constitution of Pakistan guarantees dignity, freedom and equality to all
+                the citizens and forbids discrimination on the basis of sex.The 18 Constitutional Amendment
+                passed in 2010 through a cross-party support and endorsement provides the opportunity to
+                ensure that the Constitutional guarantee of equality is achieved by ensuring complete
+                autonomy to provinces.47 subjects and 18 federal ministries have been devolved and federal
+                and provincial constitutional purviews have been demarcated.The Amendment has entailed
+                transferring of resources from the federal level to the provinces to define their priorities and
+                accordingly fulfill their responsibilities.The scope of constitutionally guaranteed fundamental
+                human rights has also been expanded by the said amendment, namely:a) the right to fair trial
+                and due process, b) the right to information and, c) the right to education. With greater
+                ownership of policies and programmes a learning and competitive spirit has emerged
+                between provinces to women's advantage.",
+
+        ];
+
+        $this->knowladge[] = [
+         'id'    =>  3,  
+            'image' => 'annual.jpg',
+            'pdf'   => 'annual_report2014.pdf',
+            'title' => 'ANNUAL REPORT 2014',
+            'description' => "2014 was the second year of the current National Commission on the Status of Women's three
+                    year term. In this year the Commission focused on taking work on its priority themes forward and
+                    th its institutionalisation. Following the 18 Constitutional Amendment and devolution of social
+                    sectors to provinces implementation responsibility has largely shifted to the provincial level, thus
+                    making coordination with provincial governments and institutions a critical element in endeavours
+                    for women's empowerment and development. NCSW's activities in the year were concentrated on
+                    building its autonomous identity, consolidating coordination channels, developing monitoring
+                    mechanisms and strengthening its institutional base. In addition, NCSW continuously responded
+                    to issues that cropped up, attended National Assembly and Senate Standing Committee hearings
+                    and session, gave written replies to questions from these committees, and organised
+                    consultations to review laws. It also conducted the broad based consultative 20 year review of the
+                    Beijing Platform for Action and submitted the draft report in the UN prescribed deadline",
+
+                'detail_description' => "2014 was the second year of the current National Commission on the Status of Women's three
+                    year term. In this year the Commission focused on taking work on its priority themes forward and
+                    th its institutionalisation. Following the 18 Constitutional Amendment and devolution of social
+                    sectors to provinces implementation responsibility has largely shifted to the provincial level, thus
+                    making coordination with provincial governments and institutions a critical element in endeavours
+                    for women's empowerment and development. NCSW's activities in the year were concentrated on
+                    building its autonomous identity, consolidating coordination channels, developing monitoring
+                    mechanisms and strengthening its institutional base. In addition, NCSW continuously responded
+                    to issues that cropped up, attended National Assembly and Senate Standing Committee hearings
+                    and session, gave written replies to questions from these committees, and organised
+                    consultations to review laws. It also conducted the broad based consultative 20 year review of the
+                    Beijing Platform for Action and submitted the draft report in the UN prescribed deadline.<br><br>
+                    The year was a busy one where NCSW's major effort was to complete its staff recruitment and
+                    establish its full-fledged and independent secretariat. Due to procedural delays this objective
+                    could not be achieved. Commission members, volunteers, civil society organisations and interns
+                    provided essential support in taking the Commission's agenda forward.",
+            'date'  => '2014',
+            'url'    => 'https://www.ncsw.gov.pk/publicationslist#AnnReport',
+            'author' => 'Khawar Mumtaz',
+        ];
+
+        $this->knowladge[] = [
+         'id'    =>  4,  
+            'image' => 'annual1.jpg',
+            'pdf'   => 'annual_report2013.pdf',
+            'title' => 'ANNUAL REPORT 2013',
+            'description' => "National Commission on the Status of Women Act, 2012 that replaced the earlier NCSW Ordinance 2000 provided for a financially and administratively autonomous body with the objective of promoting social, economic, political and legal rights of women as guaranteed in the Constitution of Pakistan and in accordance with Pakistan's international obligations as embodied in various conventions, covenants and declarations.",
+
+            'detail_description' => "National Commission on the Status of Women Act, 2012 that replaced the earlier NCSW
+            Ordinance 2000 provided for a financially and administratively autonomous body with the
+            objective of promoting social, economic, political and legal rights of women as guaranteed in
+            the Constitution of Pakistan and in accordance with Pakistan's international obligations as
+            embodied in various conventions, covenants and declarations.(Annex-1)<br><br>
+            NCSW's mandate as prescribed in the Act is very comprehensive -- from review and
+            assessment of laws, government policies, programmes and measures and their
+            implementation to making recommendations to achieve gender equality and women's
+            empowerment and eliminate discrimination. It is also mandated to recommend signing and
+            ratification of international instruments for protection of human rights, undertake and
+            encourage research and data generation for policies and action, interact with nongovernmental organisations, experts and individuals develop active associations with other
+            similar institutions in other countries.<br><br>
+            The Commission also has powers to seek and receive information, data or documents from
+            any official source and powers of a civil court to enforce attendance of any person and
+            production of documents. It can also visit any jail or sub-jail and intervene for redress of
+            women's rights.",
+
+            'date'  => '2013',
+            'url'    => 'https://www.ncsw.gov.pk/publicationslist#AnnReport',
+            'author' => 'Khawar Mumtaz',
+        ];
